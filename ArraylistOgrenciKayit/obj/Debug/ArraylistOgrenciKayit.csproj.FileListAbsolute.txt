@@ -1,0 +1,7 @@
+C:\Users\Alp\source\repos\ArraylistOgrenciKayit\ArraylistOgrenciKayit\bin\Debug\ArraylistOgrenciKayit.exe.config
+C:\Users\Alp\source\repos\ArraylistOgrenciKayit\ArraylistOgrenciKayit\bin\Debug\ArraylistOgrenciKayit.exe
+C:\Users\Alp\source\repos\ArraylistOgrenciKayit\ArraylistOgrenciKayit\bin\Debug\ArraylistOgrenciKayit.pdb
+C:\Users\Alp\source\repos\ArraylistOgrenciKayit\ArraylistOgrenciKayit\obj\Debug\ArraylistOgrenciKayit.csproj.AssemblyReference.cache
+C:\Users\Alp\source\repos\ArraylistOgrenciKayit\ArraylistOgrenciKayit\obj\Debug\ArraylistOgrenciKayit.csproj.CoreCompileInputs.cache
+C:\Users\Alp\source\repos\ArraylistOgrenciKayit\ArraylistOgrenciKayit\obj\Debug\ArraylistOgrenciKayit.exe
+C:\Users\Alp\source\repos\ArraylistOgrenciKayit\ArraylistOgrenciKayit\obj\Debug\ArraylistOgrenciKayit.pdb
