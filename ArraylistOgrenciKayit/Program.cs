@@ -12,7 +12,7 @@ namespace ArraylistOgrenciKayit
         static void Main(string[] args)
         {
             ArrayList ogrenciler = new ArrayList();
-
+            //Alp Sarıkışla
             string secenek = "e";
 
             while (secenek == "e")
